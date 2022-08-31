@@ -1,0 +1,39 @@
+.heading {
+    font-size: 23px ;
+    width: 100%;
+    margin: 0px;
+box-shadow: 5px 10px 5px yellow;
+font-family: cursive;
+}
+
+.NOTE{
+    font-size: 22px;
+   color:rgb(248, 212, 123);
+white-space: pre-line;
+}
+
+.cr7{
+    font-size: 25px;
+    position: fixed;
+    bottom: 0;
+    background-color: aqua;
+    width:100%;
+    text-align: center;
+    color:crimson;
+    font-family: cursive;
+
+
+}
+
+body{
+    background-color: rgba(220, 20, 60, 0.691);
+}
+
+canvas{
+    border:5px solid rgb(255, 255, 255);
+    box-shadow: 20px 20px 10px yellow;
+    border-radius:20px;
+    background-color: rgb(167, 174, 232);
+
+
+}
